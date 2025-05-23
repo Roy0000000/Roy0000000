@@ -1,5 +1,5 @@
 ## Hi there 👋
-🌱 I’m currently learning at BJTU
+🌱 I’m currently learning at BJTU/n
 📫 How to reach me: 23722091@bjtu.edu.cn
 
 <!--
