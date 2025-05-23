@@ -1,6 +1,6 @@
 ## Hi there 👋
-🌱 I’m currently learning at BJTU/n
-📫 How to reach me: 23722091@bjtu.edu.cn
+- 🌱 I’m currently learning at BJTU
+- 📫 How to reach me: 23722091@bjtu.edu.cn
 
 <!--
 **Roy0000000/Roy0000000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
